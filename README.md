@@ -1,9 +1,9 @@
 ![31 07 2023_06 25 53_REC](https://github.com/user-attachments/assets/0843cbf0-59ad-4b91-84da-f7b1dc7c43bb)
-# MT4 License System for Trading Bots Expert Advisor
+# [MT4 License System for Trading Bots Expert Advisor](https://4xpip.com/product/mt4-license-system-for-trading-bots)
 The MetaTrader 4 (MT4) is widely and commonly used by Forex and financial traders. It has been used by over 16 Million people all over the world. With the increasing number of users of MetaTrader 4 the demand for protecting the Expert Advisor, indicator and trading tools has also increased. Every trader is looking to protect their EA Expert Advisor from unauthorized access. Some traders even sell their EA to customers and charge them monthly fee $$.
 
 # Introduction to the MT4 License System by 4xPip
-The 4xPip license system helps traders control who can use their Expert Advisors (EAs), Indicators, and Scripts. By adding License System to EA files, traders can limit access based on account numbers and expiration dates. It makes sure only authorized or paying users can use their products for allowable time. This protects their work from being misused and make sures they get paid for the trading algorithms they create.
+The 4xPip [license system for EA](https://4xpip.com/product/mt4-license-system-for-trading-bots) helps traders control who can use their Expert Advisors (EAs), Indicators, and Scripts. By adding License System to EA files, traders can limit access based on account numbers and expiration dates. It makes sure only authorized or paying users can use their products for allowable time. This protects their work from being misused and make sures they get paid for the trading algorithms they create.
 
 # Why Use an MT4 License System by 4xPip?
 
@@ -49,3 +49,9 @@ The best feature of MQL4 EA License System is you can add **unlimited number of 
 4xPip offers most powerful license system for trading bots EA that is not hackable. Here is a picture of it, how user can manage customers, account numbers and expiry date.
 
 ![image](https://github.com/user-attachments/assets/8d229581-7a60-4437-9611-12f6744af064)
+
+4xpip Email address: services@4xpip.com
+
+4xpip Telegram: https://t.me/pip_4x
+
+4xpip Whatsapp: https://api.whatsapp.com/send/?phone=18382131588
