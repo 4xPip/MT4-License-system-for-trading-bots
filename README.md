@@ -27,7 +27,7 @@ The 4xPip [license system for EA](https://4xpip.com/product/mt4-license-system-f
 
 10. **Account numbers:** Moreover, you can view the list of account numbers and every customer who owns them.
 
-11.**Expiry date:** Extend/Remove the subscription of any customer anytime through simple clicks. You can update the expiry date whenever you want
+11. **Expiry date:** Extend/Remove the subscription of any customer anytime through simple clicks. You can update the expiry date whenever you want
 
 12. **Renew license:** It will redirect customers to you whenever their license is Expired. Customers will see a message to contact their seller to purchase new licenses.
 
